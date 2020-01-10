@@ -1,0 +1,11 @@
+D:\vscode\csharp_mongodb\obj\Debug\netcoreapp2.2\csharp_mongodb.csprojAssemblyReference.cache
+D:\vscode\csharp_mongodb\obj\Debug\netcoreapp2.2\csharp_mongodb.csproj.CoreCompileInputs.cache
+D:\vscode\csharp_mongodb\obj\Debug\netcoreapp2.2\csharp_mongodb.AssemblyInfoInputs.cache
+D:\vscode\csharp_mongodb\obj\Debug\netcoreapp2.2\csharp_mongodb.AssemblyInfo.cs
+D:\vscode\csharp_mongodb\bin\Debug\netcoreapp2.2\csharp_mongodb.deps.json
+D:\vscode\csharp_mongodb\bin\Debug\netcoreapp2.2\csharp_mongodb.runtimeconfig.json
+D:\vscode\csharp_mongodb\bin\Debug\netcoreapp2.2\csharp_mongodb.runtimeconfig.dev.json
+D:\vscode\csharp_mongodb\bin\Debug\netcoreapp2.2\csharp_mongodb.dll
+D:\vscode\csharp_mongodb\bin\Debug\netcoreapp2.2\csharp_mongodb.pdb
+D:\vscode\csharp_mongodb\obj\Debug\netcoreapp2.2\csharp_mongodb.dll
+D:\vscode\csharp_mongodb\obj\Debug\netcoreapp2.2\csharp_mongodb.pdb
